@@ -1,0 +1,4 @@
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.csproj.CoreCompileInputs.cache
