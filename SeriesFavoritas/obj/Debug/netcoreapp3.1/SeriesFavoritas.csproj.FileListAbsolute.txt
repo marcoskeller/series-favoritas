@@ -2,3 +2,12 @@ C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\Seri
 C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.AssemblyInfoInputs.cache
 C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.AssemblyInfo.cs
 C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\bin\Debug\netcoreapp3.1\SeriesFavoritas.exe
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\bin\Debug\netcoreapp3.1\SeriesFavoritas.deps.json
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\bin\Debug\netcoreapp3.1\SeriesFavoritas.runtimeconfig.json
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\bin\Debug\netcoreapp3.1\SeriesFavoritas.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\bin\Debug\netcoreapp3.1\SeriesFavoritas.dll
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\bin\Debug\netcoreapp3.1\SeriesFavoritas.pdb
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.dll
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.pdb
+C:\Users\Administrador\Documents\Cursos\Dio\SeriesFavoritas\SeriesFavoritas\SeriesFavoritas\obj\Debug\netcoreapp3.1\SeriesFavoritas.genruntimeconfig.cache

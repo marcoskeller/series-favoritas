@@ -13,6 +13,8 @@ namespace SeriesFavoritas.Classes
 
         private int Ano { get; set; }
 
+        private bool Excluido { get; set; }
+
         public Serie(int id, Genero genero, string titulo, string descricao, int ano)
         {
             this.Id = id;
@@ -20,6 +22,7 @@ namespace SeriesFavoritas.Classes
             Titulo = titulo;
             Descricao = descricao;
             Ano = ano;
+            Excluido = false;
         }
 
         public override string ToString()
@@ -29,7 +32,7 @@ namespace SeriesFavoritas.Classes
             retorno += "Titulo: " + Titulo + Environment.NewLine;
             retorno += "Descrição: " + Descricao + Environment.NewLine;
             retorno += "Ano de Início: " + Ano + Environment.NewLine;
-            //retorno += "Excluido: " + this.Excluido;
+            retorno += "Excluido: " + Excluido;
             return retorno;
         }
 
@@ -41,6 +44,16 @@ namespace SeriesFavoritas.Classes
         public int RetornaId()
         {
             return Id;
+        }
+
+        public void Excluir()
+        {
+            Excluido = true;
+        }
+
+        public bool RetornaExcluido()
+        {
+            return Excluido;
         }
     } 
 }
